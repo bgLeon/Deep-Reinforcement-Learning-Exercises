@@ -24,4 +24,4 @@ Other hyperparameters can be found in the dqn_agent.py file
 The main file is Navigation, the file is self-explanatory. To install the dependences needed follow the instructions from https://github.com/udacity/deep-reinforcement-learning
 
 
-
+**If the Unity enviroment throws an error, restart the kernel**
